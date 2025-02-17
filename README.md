@@ -47,5 +47,4 @@ Instead, you should combine `run_sequence` and `run_parallel` with the same comm
 The parallel running is always preferred, because it is faster, but logical order should be taken into account (for ex: switch on -> play; flush -> clean).  
 After that, your code will work a bit longer (still faster than at the beginning), but at least it works correctly now.
 
-
-> 💡 Attach the screenshot of your script results (the console) to the PR.
+- Attach the screenshot of your script results (the console) to the PR.
